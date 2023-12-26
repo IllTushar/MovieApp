@@ -1,4 +1,4 @@
-package com.example.movieapp.data.domain.people
+package com.example.movieapp.data.domain.people.repository
 
 import com.example.movieapp.data.model.people.People
 

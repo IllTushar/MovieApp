@@ -1,5 +1,6 @@
-package com.example.movieapp.data.domain.tv
+package com.example.movieapp.data.domain.tv.usecase
 
+import com.example.movieapp.data.domain.tv.repository.TvShowRepository
 import com.example.movieapp.data.model.tv.TvShow
 
 class UpdateTvShow(private val tvShowRepository: TvShowRepository) {
